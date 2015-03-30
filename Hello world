@@ -1,0 +1,9 @@
+#include <iostream>//libreria de entrada salida.
+
+int main()// inicio de la funcion principal.
+{
+	std::cout << "Hello World!, By Andres Castro, 153708-8, k1051" << endl; // salida "escritura" por pantalla.
+	cin.get();// espera un valor de teclado y finaliza el programa.
+
+	return 0;// devolucion de la funcion.
+}
