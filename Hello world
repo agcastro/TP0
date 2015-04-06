@@ -1,3 +1,7 @@
+//andres Guillermo Castro
+//k1051
+// TP0: Hola mundo 
+
 #include <iostream>//libreria de entrada salida.
 
 int main()// inicio de la funcion principal.
