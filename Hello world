@@ -1,13 +1,12 @@
 //andres Guillermo Castro
 //k1051
-// TP0: Hola mundo 
+//11-04-2015
+// TP0: Hello World 
 
-#include <iostream>//libreria de entrada salida.
+#include <iostream>//biblioteca standar de entrada salida.
 
 int main()// inicio de la funcion principal.
 {
-	std::cout << "Hello World!, By Andres Castro, 153708-8, k1051" << endl; // salida "escritura" por pantalla.
-	cin.get();// espera un valor de teclado y finaliza el programa.
-
+	std::cout << "Hello world!, By Andres Castro, 153708-8, k1051" << endl; // salida "escritura" por pantalla.
 	return 0;// devolucion de la funcion.
 }
